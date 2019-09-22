@@ -63,7 +63,7 @@ public class MatricesDispersas {
         System.out.println("TRIPLETA:");
         mostrarMatriz(Tripleta);
     }
-    
+    //ME TO BY:CHA77A
     //David was here
     public static void mostrarMatriz(int[][] matriz) {
         for (int a = 0; a < matriz.length; a++) {
