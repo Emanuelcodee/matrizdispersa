@@ -64,6 +64,7 @@ public class MatricesDispersas {
         mostrarMatriz(Tripleta);
     }
     
+    //David was here
     public static void mostrarMatriz(int[][] matriz) {
         for (int a = 0; a < matriz.length; a++) {
             for (int b = 0; b < matriz[a].length; b++) {
